@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050959553422",
+    "project_id": "tareas-nubes",
+    "storage_bucket": "tareas-nubes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050959553422:android:d57a949c8df17497c6badf",
+        "android_client_info": {
+          "package_name": "com.example.tareas_nube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050959553422-bbo3phqpdr6hth8suk4vovk31nbhl7sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiPIrKjSFD1ixyntwvEVFoKRaNu1t0LlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050959553422-bbo3phqpdr6hth8suk4vovk31nbhl7sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
